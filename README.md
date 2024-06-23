@@ -17,11 +17,11 @@ Welcome to the Python lab! Follow these steps to complete the assignment.
    python test_lab.py
   
 5. Make changes to lab.py as needed until all tests pass.
-6. 
-7. Once you are satisfied with your solution, push your changes back to GitHub:
+
+6. Once you are satisfied with your solution, push your changes back to GitHub:
    git add lab.py
    git commit -m "Completed lab"
    git push origin main
 
-8. Your submission will be automatically graded using GitHub's autograder.
+7. Your submission will be automatically graded using GitHub's autograder.
    Ensure that all tests pass before submitting.
